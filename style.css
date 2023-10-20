@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+img {
+    border: 5px solid black;
+    float: right;
+    width: 25%;
+}
+
+.content-1 {
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: white;
+}
