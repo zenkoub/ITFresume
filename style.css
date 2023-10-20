@@ -4,9 +4,13 @@ body {
 }
 
 img {
-    border: 5px solid black;
-    float: right;
+    border: 5px solid navy;
+    float: center;
+    text-align: center;
     width: 25%;
+    height: 25%;
+    background-image: rgb(243, 220, 220);
+    box-shadow: 5px 5px 5px grey;
 }
 
 .content-1 {
@@ -14,4 +18,13 @@ img {
     margin-left: 20%;
     margin-right: 20%;
     background: white;
+}
+
+div {
+    background-color: white;
+    width: 300px;
+    border: 5px solid navy;
+    padding: 1px;
+    margin: auto;
+    box-shadow: 5px 10px 10px grey;
 }
